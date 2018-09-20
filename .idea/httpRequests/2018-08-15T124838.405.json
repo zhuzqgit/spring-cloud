@@ -1,0 +1,7 @@
+{
+  "timestamp": "2018-08-15T04:48:38.208+0000",
+  "status": 405,
+  "error": "Method Not Allowed",
+  "message": "Request method 'DELETE' not supported",
+  "path": "/admin/124234"
+}

@@ -1,0 +1,7 @@
+{
+  "timestamp": "2018-08-15T04:47:43.322+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "Missing URI template variable 'id' for method parameter of type String",
+  "path": "/admin"
+}
